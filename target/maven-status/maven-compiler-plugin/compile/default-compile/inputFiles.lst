@@ -1,0 +1,7 @@
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/App.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/request/HttpRequest.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/utils/GZIPCompressor.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/client/ClientHandler.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/request/RequestParser.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/database/DatabaseConfig.java
+/home/BiffJonas/repos/Java/HttpServer/src/main/java/com/httpserver/server/database/DB.java

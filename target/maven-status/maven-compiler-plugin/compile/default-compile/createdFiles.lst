@@ -1,0 +1,7 @@
+com/httpserver/server/request/RequestParser.class
+com/httpserver/server/request/HttpRequest.class
+com/httpserver/server/utils/GZIPCompressor.class
+com/httpserver/server/client/ClientHandler.class
+com/httpserver/server/App.class
+com/httpserver/server/database/DatabaseConfig.class
+com/httpserver/server/database/DB.class
